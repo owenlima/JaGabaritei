@@ -1,4 +1,4 @@
-'pt-BR':
+"pt-BR":
   activerecord:
     models:
       admin:
@@ -11,8 +11,8 @@
         one: Assunto
         other: Assuntos
       question:
-        one: Pergunta
-        other: Perguntas
+        one: Questão
+        other: Questões
     attributes:
       admin:
         id: Código
