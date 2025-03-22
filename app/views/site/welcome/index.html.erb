@@ -1,16 +1,1 @@
-<h1>Site::Welcome#index</h1>
-<p>Find me in app/views/site/welcome/index.html.erb</p>
-
-<%= link_to 'Users Backoffice', users_backoffice_welcome_index_path %>
-<% if user_signed_in? %>
-    <p>Usuário logado</p>
-<% else %>
-    <p>Usuário não está logado</p>
-<% end %>
-
-<%= link_to 'Admins Backoffice', admins_backoffice_welcome_index_path %>
-<% if admin_signed_in? %>
-    <p>Admin logado</p>
-<% else %>
-    <p>Admin não está logado</p>
-<% end %>
+<%= render partial: 'site/shared/questions' %>
