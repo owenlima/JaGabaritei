@@ -28,7 +28,9 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <%= link_to 'Já Gabaritei!', root_path, class:"navbar-brand" %>
+            <%= link_to root_path, class: "navbar-brand" do %>
+              <i class="fa fa-check-square-o"></i> Já Gabaritei!
+            <% end %>
           </div>
           <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav"></ul>
