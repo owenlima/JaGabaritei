@@ -9,7 +9,7 @@
 
 ## Sobre o Projeto
 
-**Já Gabaritei!** é um projeto desenvolvido como parte da disciplina de Introdução à Programação, no âmbito do Programa de Residência em TI. A aplicação foi construída com o objetivo de auxiliar na gestão e visualização de desempenho acadêmico, com funcionalidades que envolvem a criação, correção e estatísticas de simulados.
+**Já Gabaritei!** é uma aplicação desenvolvida como parte da disciplina de Introdução à Programação, no âmbito do Programa de Residência em TI. Seu objetivo é auxiliar nos estudos por meio da criação e resolução de questões, funcionando como uma plataforma de simulado personalizada. Os usuários podem cadastrar questões, responder questões e acompanhar seu desempenho, tornando o aprendizado mais prático e eficiente.
 
 ---
 
